@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/53173112/218265817-1c09c0b7-9cea-45ed-9cb9-0292c1f72f13.mp4
+![Hi There! ) I'm Leonid Yatskevich  Welcome to My GITHUB](https://user-images.githubusercontent.com/53173112/218265917-59704556-cd8f-4461-9639-eb76dd957384.gif)
+
 
 
 - 👋 Hi, I’m @leonidya
