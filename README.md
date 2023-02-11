@@ -7,7 +7,7 @@ leonidya/leonidya is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello everyone! My name is Leonid Yatskevich and I am a data analyst and data scientist. I am excited to be part of this community and share my knowledge and experience with you all.
+Hello everyone! My name is Leonid Yatskevich and I am a data analyst / scientist. I am excited to be part of this community and share my knowledge and experience with you all.
 
 Data has always been a passion of mine and I find great satisfaction in uncovering insights and trends hidden within it. I have a strong technical background in data analysis, statistics, and machine learning, and I enjoy using these skills to solve real-world problems.
 
