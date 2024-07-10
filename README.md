@@ -20,3 +20,4 @@ Let's connect and work together to make the most of our data!
 💼 any freelance work? do reach, email :)
 
 💬 ask me about anything, I'm happy to help; ![code](https://user-images.githubusercontent.com/53173112/218266632-9f0ebb51-3a74-40c1-b4dd-09069b0cd45f.gif)
+https://www.linkedin.com/in/leonid-yatskevich/ 
